@@ -81,18 +81,28 @@ a {
   width: 100%;
   height: 50px;
   background-color: #4267B2 !important;
+  color: #fff !important;
 }
 
 .btn-instagram {
   width: 100%;
   height: 50px;
   background-color: #DB194C !important;
+  color: #fff !important;
 }
 
 .btn-linkedin {
   width: 100%;
   height: 50px;
   background-color: #0176B5 !important;
+  color: #fff !important;
+}
+
+.btn-whatsapp {
+  width: 100%;
+  height: 50px;
+  background-color: #48c856 !important;
+  color: #fff !important;
 }
 
 .title {
@@ -108,7 +118,7 @@ a {
   height: 25px !important;
 }
 
-.logo {
+.logo img {
   width: 150px;
   height: 150px;
   border-radius: 100%;
