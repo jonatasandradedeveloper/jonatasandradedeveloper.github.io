@@ -105,6 +105,21 @@ a {
   color: #fff !important;
 }
 
+.btn-email {
+  width: 100%;
+  height: 50px;
+  background-color: #f45 !important;
+  color: #fff !important;
+}
+
+.btn-warning {
+  width: 100%;
+  height: 50px;
+  background-color: #51E3A7 !important;
+  color: #fff !important;
+  border: 0;
+}
+
 .title {
   font-size: 25px;
   color: #39E09B;
